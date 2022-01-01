@@ -1,6 +1,10 @@
-# hilt를 사용한 mvvm 패턴 practice 앱
+# 다양한 기술을 사용한 배달앱 (클론코딩)
 사용 기술 스택: 
-* MVVM/MVI 패턴
-* Hilt
-* ViewModel
-* States
+* AAC-VM
+* Koin
+* Google map
+* Room
+* Retrofit
+* Coroutine
+* Firebase
+* camara x
